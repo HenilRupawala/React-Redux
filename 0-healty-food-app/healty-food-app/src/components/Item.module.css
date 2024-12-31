@@ -1,0 +1,14 @@
+.hrItem {
+  background-color: rgb(31, 31, 182);
+  /* margin: 5px; */
+}
+
+.hrSpan {
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(52, 34, 170);
+}
+
+.button {
+  float: right;
+}

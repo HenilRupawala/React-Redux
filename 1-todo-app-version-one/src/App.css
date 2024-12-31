@@ -1,0 +1,23 @@
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.item-container {
+  text-align: left;
+}
+
+.hr-row {
+  margin: 10px;
+}
+
+.hr-button {
+  min-width: 80px;
+}
